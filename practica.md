@@ -1,4 +1,6 @@
-# titulo# titulo
+# hola
 
-## subtitulo
+## actividades
 - tarea
+
+## hola
